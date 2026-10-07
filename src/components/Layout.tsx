@@ -4,7 +4,7 @@ export default function Layout() {
   return (
     <div className="app-shell">
       <header className="site-header">
-        <p className="eyebrow">MP2 · The Meal DB</p>
+        <p className="eyebrow">The Mead DB</p>
         <h1>Meal Explorer</h1>
         <nav aria-label="Main navigation">
           <NavLink to="/search">Search</NavLink>
